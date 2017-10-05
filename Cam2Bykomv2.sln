@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cam2Bykomv2", "Cam2Bykomv2\Cam2Bykomv2.vbproj", "{F1CA90A7-B5E6-4684-99D9-23982A4C435A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sendemail", "..\sendemail\sendemail\sendemail.vbproj", "{F669ABC0-117A-4368-AF74-D5AC47A52680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CA90A7-B5E6-4684-99D9-23982A4C435A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CA90A7-B5E6-4684-99D9-23982A4C435A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CA90A7-B5E6-4684-99D9-23982A4C435A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CA90A7-B5E6-4684-99D9-23982A4C435A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F669ABC0-117A-4368-AF74-D5AC47A52680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F669ABC0-117A-4368-AF74-D5AC47A52680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F669ABC0-117A-4368-AF74-D5AC47A52680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F669ABC0-117A-4368-AF74-D5AC47A52680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
